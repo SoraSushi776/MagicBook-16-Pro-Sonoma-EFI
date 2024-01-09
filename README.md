@@ -33,13 +33,13 @@
 
 ### 关于网卡
 
-由于内置网卡没有办法驱动，目前唯一解决方案是 **购买使用外置网卡**，并搭配 [Github]() 上的一个驱动进行使用，本EFI已内置Kext驱动，只需要安装其软件即可
+- 由于内置网卡没有办法驱动，目前唯一解决方案是 **购买使用外置网卡**，并搭配 [Github]() 上的一个驱动进行使用，本EFI已内置Kext驱动，只需要安装其软件即可
 
-我用的是 [COMFAST CF-811AC](http://www.comfast.cn/index.php?m=content&c=index&a=show&catid=13&id=74)
+- 我用的是 [COMFAST CF-811AC](http://www.comfast.cn/index.php?m=content&c=index&a=show&catid=13&id=74)
 
-**请注意！官网上的驱动不支持 macOS 11.0 及以后版本！请使用 [Github]() 上提供的驱动**
+- **请注意！官网上的驱动不支持 macOS 11.0 及以后版本！请使用 [Github]() 上提供的驱动**
 
-本EFI已解决内建网卡问题，Apple ID 服务 和 App Store 均可访问
+- 本EFI已解决内建网卡问题，Apple ID 服务 和 App Store 均可访问
 
 ### 其他想说的
 - 建议使用恢复镜像方法安装系统，使用引导安装不保证能成功
