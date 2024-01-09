@@ -25,6 +25,12 @@
 - 显存需要使用 [AMDTools]() 修改成 4G（或其它）
 - 内置网卡无法驱动，解决方法请看 [后面](https://github.com/SoraSushi776/MagicBook-16-Pro-Sonoma-EFI#%E8%B5%84%E6%96%99%E9%93%BE%E6%8E%A5)
 
+## 关于显卡硬解（重点！）
+- 解决方案是 [NootedRed issue #158](https://github.com/ChefKissInc/NootedRed/issues/158)（使用 BFixup.kext）
+- 请注意，这不是最终解决方案！但是可以解决绝大多数的显卡硬解问题（如Chrome浏览器、Chromium/Electron程序的卡死问题）
+- **请注意！ 如果你会使用到 Unity ， 请将项目图形API修改成 OpenGL，用Metal会出问题**
+- 换句话说，对Metal的支持还不太好。。。
+
 ### 关于网卡
 
 由于内置网卡没有办法驱动，目前唯一解决方案是 **购买使用外置网卡**，并搭配 [Github]() 上的一个驱动进行使用，本EFI已内置Kext驱动，只需要安装其软件即可
