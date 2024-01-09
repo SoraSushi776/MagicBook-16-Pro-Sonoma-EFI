@@ -6,6 +6,8 @@
 
 ➡️ [点我查看设备详情](https://www.hihonor.com/cn/laptops/magicbook-16-pro/)
 
+# 请认真完整阅读以下说明！！
+
 ### 配置信息
 - CPU：AMD Ryzen 7 5800H with Radeon Graphics
 - RAM：16GB DDR4
@@ -49,5 +51,6 @@
 - 直到进入桌面前，都建议将 NootedRed.kext 关闭（Sonoma必须关闭）
 
 ### 资料链接
-- AMDTools：https://github.com/DavidS95/Smokeless_UMAF
-- 外置网卡驱动安装与教程：https://imacos.top/2021/02/19/0519/
+- AMDTools：[Github](https://github.com/DavidS95/Smokeless_UMAF)
+- 外置网卡驱动安装与教程：[黑苹果屋](ihttps://imacos.top/2021/02/19/0519/)
+- AMD黑苹果交流群：[QQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kujq-RPu1dRJGxaDKXoVwMWOWpBTJ4uj&authKey=kCxZUA6nPBMdHkls%2Bt2%2BcOUfCw7JBsn2ocKwnkROsC4DsB2nas8MXvCi%2Fv2ey4fK&noverify=0&group_code=837373534)
