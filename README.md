@@ -11,7 +11,7 @@
 > NVIDIA 显卡无法在 macOS 10.14+ 上驱动
 - GPU1：AMD Radeon Grphics（集显）
 - 网卡：Qualcomm QCNFA765
-> 无法驱动，详情请见 [后面]()
+> 无法驱动，详情请见 [后面](https://github.com/SoraSushi776/MagicBook-16-Pro-Sonoma-EFI#%E8%B5%84%E6%96%99%E9%93%BE%E6%8E%A5)
 
 ### 伪装信息
 - 型号：MacBook Pro 16,3
@@ -21,9 +21,9 @@
 
 ### 已知问题
 - 第一组 Type-C 和 USB 接口（位于两个接口上面靠近显示器的那两个）无法使用，插入设备开机会卡死（未解）
-> 一个 Type-C 和 USB 组成一组集线器，第一组集线器不能工作，第二组可以工作。建议使用 [AMDTools]() 将第一组屏蔽
+> 一个 Type-C 和 USB 组成一组集线器，第一组集线器不能工作，第二组可以工作。建议使用 [AMDTools](https://github.com/SoraSushi776/MagicBook-16-Pro-Sonoma-EFI#%E8%B5%84%E6%96%99%E9%93%BE%E6%8E%A5) 将第一组屏蔽
 - 显存需要使用 [AMDTools]() 修改成 4G（或其它）
-- 内置网卡无法驱动，解决方法请看 [后面]()
+- 内置网卡无法驱动，解决方法请看 [后面](https://github.com/SoraSushi776/MagicBook-16-Pro-Sonoma-EFI#%E8%B5%84%E6%96%99%E9%93%BE%E6%8E%A5)
 
 ### 关于网卡
 
