@@ -49,6 +49,8 @@
 - 建议使用恢复镜像方法安装系统，使用引导安装不保证能成功
 - 如果你安装Ventura/Sonoma的时候卡死，可以先装一次Big Sur（反正我就是先装一次Big Sur就好了）
 - 直到进入桌面前，都建议将 NootedRed.kext 关闭（Sonoma必须关闭）
+- 请在安装之前更改好三码，**造成任何后果均与我无关**
+- 欢迎提交 issue
 
 ### 资料链接
 - AMDTools：[Github](https://github.com/DavidS95/Smokeless_UMAF)
