@@ -2,6 +2,8 @@
 
  荣耀 MagicBook 16 Pro (HYM-WXX) 锐龙版 黑苹果 EFI 文件
 
+![上图！](https://github.com/SoraSushi776/MagicBook-16-Pro-Sonoma-EFI/blob/main/ScreenShot.png?raw=true)
+
 ➡️ [点我查看设备详情](https://www.hihonor.com/cn/laptops/magicbook-16-pro/)
 
 ### 配置信息
